@@ -1,4 +1,7 @@
-# Final-project
-Collage final year project
+# Final Year project
 <br>
-Auther-Venkat_sudheer and Team members(Vijaya Gowri, Sailaja.)
+Author:Venkata Sudheer G
+<br>
+Team members:K Vijaya Gowri, R Sailaja.
+<br>
+Year:2025
