@@ -1,7 +1,9 @@
 # Final Year project
 <br>
-Author:Venkata Sudheer G
+Author: G Venkata Sudheer 
 <br>
-Team members:K Vijaya Gowri, R Sailaja.
+Team members: K Vijaya Gowri, R Sailaja.
+<br>
+Institution: MITS University
 <br>
 Year:2025
