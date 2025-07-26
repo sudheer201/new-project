@@ -1,3 +1,3 @@
-# new-project
-Final year project
+# Final-project
+Collage project
 Auther-Venkat_sudheer and Team(Vijaya Gowri, Sailaja.)
